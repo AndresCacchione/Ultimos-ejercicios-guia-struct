@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1586646068 source:c:\users\andres\documents\github\ultimos-ejercicios-guia-struct\ultimos_ejercicios_struct\main.cpp
+	<iostream>
+	<clocale>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<rlutil.h>
+	"prototipos.h"
+	"funciones.h"
+	"ejercicios.h"
+
+1586648334 c:\users\andres\documents\github\ultimos-ejercicios-guia-struct\ultimos_ejercicios_struct\prototipos.h
+
+1586650567 c:\users\andres\documents\github\ultimos-ejercicios-guia-struct\ultimos_ejercicios_struct\funciones.h
+
+1586648322 c:\users\andres\documents\github\ultimos-ejercicios-guia-struct\ultimos_ejercicios_struct\ejercicios.h
+
